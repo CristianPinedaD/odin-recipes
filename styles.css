@@ -1,5 +1,13 @@
 /* Styles.css */
 
 body {
-    background-color: darkorchid;
+    background-color: darksalmon;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+.pagetitle {
+    text-align: center;
+    margin: 5% auto;
+    color: firebrick;
+}
+
