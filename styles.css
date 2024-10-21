@@ -32,5 +32,25 @@ p {
 ul,
 ol {
     background-color: floralwhite;
-    padding: 5px auto;
+    margin: 50px;
 }
+
+li {
+    padding: 5px;
+}
+
+li ol {
+    margin: 0px;
+}
+
+#index-ul {
+    text-align: center;
+    list-style: none; 
+    
+}
+
+#index-ul li {
+    padding: 20px;
+}
+
+
