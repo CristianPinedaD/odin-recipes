@@ -53,4 +53,8 @@ li ol {
     padding: 20px;
 }
 
+.recipecontainer {
+    display: flex; 
+    flex-wrap: wrap;
+}
 
